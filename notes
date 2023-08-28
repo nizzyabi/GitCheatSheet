@@ -1,8 +1,9 @@
+
 Git is a version control system us track our code, and make changes to code in a better and specific manner. 
 
 Github is where you STORE code.
 
--- Git Commands -- :
+# Git Commands:
 
 Clone a repo: "git clone -SSH Key-" 
 
