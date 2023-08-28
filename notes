@@ -1,24 +1,28 @@
+# GIT COMMANDS:
 
-Git is a version control system us track our code, and make changes to code in a better and specific manner. 
+Clone a repo: 
+# "git clone -SSH Key-" 
 
-Github is where you STORE code.
+Show ALL files (even hidden): 
+# "ls -la"
 
-# Git Commands:
+Shows all files that were changed, updated, or deleted: 
+# "git status"
 
-Clone a repo: "git clone -SSH Key-" 
+Starts to track and add the new things you added that are untracked : 
+# "git add ."
 
-Show ALL files (even hidden): "ls -la"
+Commit the changes and code: 
+# "git commit -m"
 
-Shows all files that were changed, updated, or deleted: "git status"
+Push commit to GitHub & make it public in the repo: 
+# "git push origin master"
 
-Starts to track and add the new things you added that are untracked : "git add ."
+Initialize new folder: 
+# "git init"
 
-Commit the changes and code: "git commit -m"
+To add to a place not on the computer: 
+# "git remote"
 
-Push commit to GitHub & make it public in the repo: " git push origin master"
-
-Initialize new folder: "git init"
-
-To add to a place not on the computer: "git remote"
-
-To change where you want to automatically push changes: "git push -u origin master (whatever the name is)"
+To change where you want to automatically push changes: 
+# "git push -u origin master (whatever the name is)"
