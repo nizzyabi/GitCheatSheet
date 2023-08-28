@@ -1,28 +1,28 @@
 # GIT COMMANDS:
 
-Clone a repo: 
-# "git clone -SSH Key-" 
+# Clone a repo: 
+"git clone -SSH Key-" 
 
-Show ALL files (even hidden): 
-# "ls -la"
+# Show ALL files (even hidden): 
+"ls -la"
 
-Shows all files that were changed, updated, or deleted: 
-# "git status"
+# Shows all files that were changed, updated, or deleted: 
+"git status"
 
-Starts to track and add the new things you added that are untracked : 
-# "git add ."
+# Starts to track and add the new things you added that are untracked : 
+"git add ."
 
-Commit the changes and code: 
-# "git commit -m"
+# Commit the changes and code: 
+"git commit -m"
 
-Push commit to GitHub & make it public in the repo: 
-# "git push origin master"
+# Push commit to GitHub & make it public in the repo: 
+"git push origin master"
 
-Initialize new folder: 
-# "git init"
+# Initialize new folder: 
+"git init"
 
-To add to a place not on the computer: 
-# "git remote"
+# To add to a place not on the computer: 
+"git remote"
 
-To change where you want to automatically push changes: 
-# "git push -u origin master (whatever the name is)"
+# To change where you want to automatically push changes: 
+"git push -u origin master (whatever the name is)"
