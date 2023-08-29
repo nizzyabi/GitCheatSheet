@@ -26,3 +26,17 @@
 
 # To change where you want to automatically push changes: 
 "git push -u origin master (whatever the name is)"
+
+# Git branching is creating different 'branches' of code that may be a little different from the main one. it is good for companies and features as you don't need to change the principle. Each branch is doing its own thing, not knowing the other exists, unless you merge.
+
+# To get the branch you are in:
+
+"git branch"
+
+# To switch between branches:
+
+"git checkout master(or whatever name you have for the branch)"
+# To make a new branch and go to it:
+
+"git checkout -b feature(name whatever name you want)"
+
