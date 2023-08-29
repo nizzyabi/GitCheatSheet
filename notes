@@ -58,3 +58,7 @@
 # Delete branch (we usually do this once we have merged to the main branch):
 
 "git branch -d (name of branch)"
+
+# If we made a mistake, we can undo and go back to previous versions of the code:
+
+"git reset"
