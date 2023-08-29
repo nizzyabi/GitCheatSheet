@@ -59,6 +59,12 @@
 
 "git branch -d (name of branch)"
 
-# If we made a mistake, we can undo and go back to previous versions of the code:
+# If we made a mistake at the commit stage, we can undo and go back to the previous versions of the code:
 
 "git reset"
+"git reset HEAD~1" -- resets commit you did ONE commit further."
+
+"git log"
+"git reset (hash)"
+
+# Forking is adding features to someone elses code by copying the code in your name and doing whatever changes you want and then give back to owner for them to see changes and allow or reject it. 
