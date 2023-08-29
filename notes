@@ -51,4 +51,10 @@
 "git push"
 "git push -u origin (name of branch)"
 
-# Pull request (PR) is where you pull code from one branch and bring it into another branch. Generally, you may do this on Github but pressing the yello button on top of your code. write a message and merge and press the pull request button. Then you can merge
+# Pull request (PR) is where you pull code from one branch and bring it into another branch. Generally, you may do this on Github but pressing the yello button on top of your code. write a message and merge and press the pull request button. Then you can merge. The 'git pull' command is used to fetch and download content from a remote repository and immediately update the local repository to match that content:
+
+"git pull"
+
+# Delete branch (we usually do this once we have merged to the main branch):
+
+"git branch -d (name of branch)"
